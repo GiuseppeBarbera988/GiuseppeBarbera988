@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GiuseppeBarbera988 and I'm from Italy
-- 👀 I’m interested in Technology, IT and Electronics
-- 🌱 I’m currently learning Electronics and studying Python
-- 💞️ I’m looking to collaborate on projects about Python and Arduino
+- 👋 Hi, I’m Giuseppe Barbera and I'm a student of Politecnico di Torino, Italy
+- 👀 In love with Rocketry, Fighter Jets and Aviation
+- 💞️ Hit me up if you want to collaborate with me!
 - 📫 How to reach me -> giuseppebarberaph@gmail.com
 
 <!---
