@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Giuseppe Barbera and I'm a student of Politecnico di Torino, Italy
+- 👋 Hi, I’m Giuseppe Barbera and I'm an Aerospace Engineering Student at Politecnico di Torino, Italy
 - 👀 In love with Rocketry, Fighter Jets and Aviation
-- 💞️ Hit me up if you want to collaborate with me!
+- 💞️ Hit me up if you want to collaborate on some cool projects!
 - 📫 How to reach me -> giuseppebarberaph@gmail.com
 
 <!---
